@@ -57,7 +57,7 @@ while running:
     #grass.draw(400, 30)
     background.draw(400, 300 )
 
-
+    #direction
     if dir == 1:
         mushroom.clip_draw(frame * 100, 0, 100, 100, x+200, 140)
 
