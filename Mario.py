@@ -95,3 +95,12 @@ while running:
 
 close_canvas()
 
+#if dir x = 0
+running = True
+x = 800 // 2
+y = 90
+frame = 0
+dir = 0 #  -1 left +1 right
+dir2 = 0
+dir3 = 0
+
