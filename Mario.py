@@ -104,3 +104,12 @@ dir = 0 #  -1 left +1 right
 dir2 = 0
 dir3 = 0
 
+
+update_canvas()
+
+    handle_events()
+
+    frame = (frame + 1) % 4
+    x += dir * 5
+    y += dir2 * 5
+    delay(0.05)
