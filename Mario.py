@@ -113,3 +113,4 @@ update_canvas()
     x += dir * 5
     y += dir2 * 5
     delay(0.05)
+delay 0000312312
